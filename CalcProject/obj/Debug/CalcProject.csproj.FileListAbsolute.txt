@@ -1,0 +1,9 @@
+/Users/christopherfarrell1/Projects/CalcProject/CalcProject/bin/Debug/CalcProject.exe
+/Users/christopherfarrell1/Projects/CalcProject/CalcProject/bin/Debug/CalcProject.pdb
+/Users/christopherfarrell1/Projects/CalcProject/CalcProject/bin/Debug/Calc.Lib.dll
+/Users/christopherfarrell1/Projects/CalcProject/CalcProject/bin/Debug/Calc.Lib.pdb
+/Users/christopherfarrell1/Projects/CalcProject/CalcProject/obj/Debug/CalcProject.csprojAssemblyReference.cache
+/Users/christopherfarrell1/Projects/CalcProject/CalcProject/obj/Debug/CalcProject.csproj.CoreCompileInputs.cache
+/Users/christopherfarrell1/Projects/CalcProject/CalcProject/obj/Debug/CalcProject.csproj.CopyComplete
+/Users/christopherfarrell1/Projects/CalcProject/CalcProject/obj/Debug/CalcProject.exe
+/Users/christopherfarrell1/Projects/CalcProject/CalcProject/obj/Debug/CalcProject.pdb

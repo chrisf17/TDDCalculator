@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcProject", "CalcProject\CalcProject.csproj", "{8721DD80-CF7F-4959-8AB7-137C56F40E4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc.Lib", "Calc.Lib\Calc.Lib.csproj", "{4D3FD3A5-3320-4C53-B85C-4BD31C37C402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcTests", "CalcTests\CalcTests.csproj", "{B4BAE38A-6F7E-4B24-8C5F-86ED5031E8F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8721DD80-CF7F-4959-8AB7-137C56F40E4D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8721DD80-CF7F-4959-8AB7-137C56F40E4D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8721DD80-CF7F-4959-8AB7-137C56F40E4D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8721DD80-CF7F-4959-8AB7-137C56F40E4D}.Release|anycpu.Build.0 = Release|anycpu
+		{4D3FD3A5-3320-4C53-B85C-4BD31C37C402}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{4D3FD3A5-3320-4C53-B85C-4BD31C37C402}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{4D3FD3A5-3320-4C53-B85C-4BD31C37C402}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{4D3FD3A5-3320-4C53-B85C-4BD31C37C402}.Release|anycpu.Build.0 = Release|Any CPU
+		{B4BAE38A-6F7E-4B24-8C5F-86ED5031E8F9}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{B4BAE38A-6F7E-4B24-8C5F-86ED5031E8F9}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{B4BAE38A-6F7E-4B24-8C5F-86ED5031E8F9}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{B4BAE38A-6F7E-4B24-8C5F-86ED5031E8F9}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0D96F06-41A1-4BAB-9CFB-943C8F599EEA}
+	EndGlobalSection
+EndGlobal
