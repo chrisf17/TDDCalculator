@@ -106,6 +106,19 @@ namespace CalcTests
             Assert.AreEqual<string>(expected, actual);
 
         }
+        [DataRow("7", "7")]
+        [DataRow("", "0")]
+        [DataRow("7,8,5", "20")]
+        [DataTestMethod]
+        public void Add_ShouldReturnSum_When_All_ValuesPassed(string testValue, string expected)
+        {
+            var calc = new Calculator(new DecimalEngine());
+            string actual = calc.Add(testValue);
+
+            Assert.AreEqual<string>(expected, actual);
+
+        }
+
         [TestMethod]
         public void Add_ShouldReturnSum_When_CommaSeparatedValuesPassed_Mock()
         {
